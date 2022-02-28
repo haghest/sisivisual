@@ -39,7 +39,7 @@ Table of Contents
 .portfolio-item-title,
 .follow-us-links li a,
 .interactive-links a {
-  color: #000;
+   color: #000;
 }
 
 /*-----------------------------------------------------
@@ -53,7 +53,7 @@ Table of Contents
 .contact-form input[type="submit"],
 .project-description h2 span:after,
 .btn:hover {
-  background: #000;
+   background: #000;
 }
 
 /*-----------------------------------------------------
@@ -64,7 +64,7 @@ Table of Contents
 .footer-inverse,
 .agency-modern .about .info,
 .cta_01 {
-  background: #1a1d20;
+   background: #111;
 }
 
 /*-----------------------------------------------------
@@ -72,7 +72,7 @@ Table of Contents
 ------------------------------------------------------*/
 
 .blog-item p {
-  color: #222;
+   color: #222;
 }
 
 /*-----------------------------------------------------
@@ -80,7 +80,7 @@ Table of Contents
 ------------------------------------------------------*/
 
 .contact-form textarea::-webkit-scrollbar-thumb {
-  background: #333;
+   background: #333;
 }
 
 /*-----------------------------------------------------
@@ -92,7 +92,7 @@ Table of Contents
 .comment p,
 .about-me p,
 .about-me li {
-  color: #555;
+   color: #555;
 }
 
 /*-----------------------------------------------------
@@ -106,7 +106,7 @@ Table of Contents
 .contact-info li,
 .portfolio-item-category,
 .personal-portfolio .hero p {
-  color: #666;
+   color: #666;
 }
 
 /*-----------------------------------------------------
@@ -114,7 +114,7 @@ Table of Contents
 ------------------------------------------------------*/
 
 .contact-form textarea::-webkit-scrollbar-track {
-  background: #eee;
+   background: #eee;
 }
 
 /*-----------------------------------------------------
@@ -122,7 +122,7 @@ Table of Contents
 ------------------------------------------------------*/
 
 .share-links li {
-  background: #f1f1f1;
+   background: #f1f1f1;
 }
 
 /*-----------------------------------------------------
@@ -132,7 +132,7 @@ Table of Contents
 .contact-form input,
 .contact-form textarea,
 .next-project {
-  background: #0017ff;
+   background: #0017ff;
 }
 
 /*-----------------------------------------------------
@@ -146,7 +146,7 @@ Table of Contents
 .btn,
 .agency-modern .about .info .content,
 .btn:hover {
-  color: #fff;
+   color: #fff;
 }
 
 /*-----------------------------------------------------
@@ -159,7 +159,7 @@ Table of Contents
 .portfolio-item-overlay,
 .cta_01 .btn:hover,
 .cta_02 .cta-link:before {
-  background: #fff;
+   background: #fff;
 }
 
 /*-----------------------------------------------------
@@ -178,7 +178,7 @@ Table of Contents
 .agency-minimal .intro h2,
 .cta_01 .btn:hover,
 .cta-link {
-  color: #0260e8;
+   color: #0260e8;
 }
 
 /*-----------------------------------------------------
@@ -193,7 +193,7 @@ Table of Contents
 .personal-portfolio .hero .cta-link:before,
 .btn,
 .mail-link:after {
-  background: #0260e8;
+   background: #0260e8;
 }
 
 /*-----------------------------------------------------
@@ -201,7 +201,7 @@ Table of Contents
 ------------------------------------------------------*/
 
 .agency-modern .about .info .content h3 {
-  color: #2179f9;
+   color: #2179f9;
 }
 
 /*-----------------------------------------------------
@@ -214,5 +214,15 @@ Table of Contents
 .cta_02 p,
 .footer-inverse,
 .footer-inverse .follow-us-links li a {
-  color: #656d78;
+   color: #656d78;
+}
+
+/*-----------------------------------------------------
+#color #BFFF07
+------------------------------------------------------*/
+
+.cta_01 h2,
+.cta_02 h2,
+.cta-link {
+   color: #bfff07;
 }
